@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "64a1b2c3d4e5f6789012345",
+    "name": "System Administrator",
+    "email": "admin@medicare.com",
+    "password": "$2a$10$rOzJqQjQjQjQjQjQjQjQjOzJqQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjQjQ",
+    "role": "admin",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]
